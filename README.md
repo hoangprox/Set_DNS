@@ -1,4 +1,4 @@
-# Set_DNS
+# Hướng Dẫn Cài Thủ Công
 Bước 1: Sao chép lệnh trong CaiDNS.bat<br>
 Bước 2: Mở NotePad<br>
 Bước 3: Dán và lưu [Tên].bat
