@@ -10,8 +10,7 @@ Mục tiêu thay đổi DNS bằng lệnh
 2. Chuột phải chạy với quyền **Administrator**.
 3. Chọn DNS mong muốn
 
-   
-    [![SetDNS.bat](https://img.shields.io/badge/Download-.bat-blue?style=for-the-badge&logo=windows)](https://github.com/hoangprox/Set_DNS/releases/download/v1/SetDNS.bat)
+   [![SetDNS.bat](https://img.shields.io/badge/Download-SetDNS.bat-blue?style=for-the-badge&logo=windows)](https://github.com/hoangprox/Set_DNS/releases/download/v1/SetDNS.bat)
 
 ---
 ### Ghi chú
