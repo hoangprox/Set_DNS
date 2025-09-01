@@ -16,5 +16,8 @@ Mục tiêu thay đổi DNS bằng lệnh
 ### Ghi chú
 Mình viết file này vì lười thêm thủ công 
 
+Mình cũng không biết gì về code cả tất cả là dùng AI nên chỉ cần quan tâm phần đổi DNS thôi nhé :))
+
+
 Nguồn https://github.com/NekoZ410/Batch_Set_DNS_Template
 
